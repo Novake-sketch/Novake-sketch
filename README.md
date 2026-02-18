@@ -40,6 +40,7 @@
   <p>Tá afim de trocar ideia sobre código, bugs e café às 3h? <br>Vem pro Servidor dos Programadores! 🚀</p>
   
   [![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/programador)
+  
 </div>
 
 
